@@ -8,6 +8,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
   - HTTP/2
     - [HTTP/2 draft](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
+    - [HTTP/2 final spec](https://www.ietf.org/rfc/rfc7540.txt)
     - [HTTP/2 Explained](https://daniel.haxx.se/http2/)
   - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 
