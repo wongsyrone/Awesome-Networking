@@ -10,12 +10,12 @@ A curated list of awesome networking libraries, resources and shiny things.
     - [HTTP/2 draft](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
     - [HTTP/2 final spec](https://www.ietf.org/rfc/rfc7540.txt)
     - [HTTP/2 Explained](https://daniel.haxx.se/http2/)
-  - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
+  - [High Performance Browser Networking](https://ssearch.oreilly.com/?q=High+Performance+Browser+Networking)
 
 - TCP/IP
   - [TCP/IP Illustrated](https://www.google.com/search?q=TCP%2FIP+Illustrated&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl)
   - [tcpdump](http://www.tcpdump.org/tcpdump_man.html)
-  - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+  - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/multi/index.html)
   - [The C10K problem](http://www.kegel.com/c10k.html)
   - [The C10M problem](http://c10m.robertgraham.com/p/manifesto.html)
   - [The Secret To 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
